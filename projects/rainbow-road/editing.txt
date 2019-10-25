@@ -1,0 +1,17 @@
+Replace SuperZambezi on All Pages with new author
+
+Replace Snowflake_Lake_1.0.json name with new file name
+
+Replace Snowflake Lake with new board namer
+
+replace snowflake-lake with new board
+
+replace Date created nov 6 2016
+
+replace updated ^
+
+Replace about project project id and projectID
+
+replace super-zambezi on all pages with new author
+
+sa=view;down  with new slug
