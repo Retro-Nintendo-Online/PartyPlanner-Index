@@ -28,6 +28,6 @@ Below you will find anything you need to know. If you want to download a build y
 -Twitch, for making the wonderful Curse Cobalt that powered CurseForge
 
 
-[discordImg]: https://img.shields.io/discord/408412538003259412.svg?logo=discord&logoWidth=18&colorB=7289DA
+[discordImg]: https://img.shields.io/discord/634114892533727242.svg?logo=discord&logoWidth=18&colorB=7289DA
 
-[discordLink]: https://discord.gg/jVXQFNQ
+[discordLink]: https://discord.gg/78hDmc
